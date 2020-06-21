@@ -6,6 +6,8 @@ Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei dokume
 
 ## 3.0.0
 
+### Added
+
 - `!item` - Zum verwalten, anschauen und kaufen von Items
 - `!cat` - Zum verwalten von Kategorien
 
