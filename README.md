@@ -11,7 +11,11 @@ Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei dokume
 - `!item` - Zum verwalten, anschauen und kaufen von Items
 - `!cat` - Zum verwalten von Kategorien
 
-## 2.0.0
+
+
+# Released
+
+## 2.0.0 [21.06.2020]
 
 ### Added
 - Datenbank Tabelle zum sammeln von Statistiken
@@ -30,8 +34,6 @@ Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei dokume
 - `!help` - Aussehen der Nachricht geändert, passend zu den Berechtigungen werden alle Befehle angezeigt, Text um neue Befehle erweitert
 - `!konto` wurde nun mit `!chars` zusammengelegt, Aussehen der Nachricht geändert
 - `!pay` - Synatx geändert. Nun muss nicht mehr angeben werden von welchem Charakter Geld gegeben wird
-
-# Released
 
 ## 1.0.0
 
