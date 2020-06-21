@@ -6,8 +6,8 @@ Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei dokume
 
 ## 3.0.0
 
--`!item` - Zum verwalten, anschauen und kaufen von Items
--`!cat` - Zum verwalten von Kategorien
+- `!item` - Zum verwalten, anschauen und kaufen von Items
+- `!cat` - Zum verwalten von Kategorien
 
 ## 2.0.0
 
