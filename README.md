@@ -15,6 +15,12 @@ Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei dokume
 
 # Released
 
+## 2.0.1 [22.06.2020]
+
+### Changed
+- Nutzer mit nur einem Char können nun !login benutzen
+- Für Supporter sind Konten von anderen jetzt auch über die DMs abrufbar
+
 ## 2.0.0 [21.06.2020]
 
 ### Added
