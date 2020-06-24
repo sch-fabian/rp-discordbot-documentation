@@ -15,6 +15,12 @@ Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei dokume
 
 # Released
 
+## 2.0.2 [24.06.2020]
+
+### Changed
+- Der `!hausdesgeldes` Befehl kann nun auch von Supportern ausgeführt werden.
+- Änderungen bei den Berechtigungen im Ticketsystem
+
 ## 2.0.1 [22.06.2020]
 
 ### Changed
