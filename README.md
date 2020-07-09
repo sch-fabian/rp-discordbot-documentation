@@ -15,7 +15,7 @@ Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei dokume
 
 # Released
 
-## 2.0.3 [09.07.2020}
+## 2.0.3 [09.07.2020]
 
 ### Added
 - Neue Einstellung für Questgeber Rang
