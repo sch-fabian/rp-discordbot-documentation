@@ -2,16 +2,6 @@
 
 Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei dokumentiert.
 
-# Unreleased
-
-## 3.0.0
-
-### Added
-
-- `!item` - Zum verwalten, anschauen und kaufen von Items
-- `!cat` - Zum verwalten von Kategorien
-
-
 
 # Released
 
@@ -68,3 +58,14 @@ Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei dokume
 - `!hausdesgeldes` - Einem Charakter wird die angegebene Menge an Geld gutgeschrieben
 - `!kill` - Mit angabe des Charakters wird dieser aus der Datenbank gelöscht
 - Funktion um die Rolle einens User auszulesen um Berechtigungen auf bestimmte Befehle zu geben
+
+
+# Unreleased
+
+## 3.0.0
+
+### Added
+
+- `!item` - Zum verwalten, anschauen und kaufen von Items
+- `!cat` - Zum verwalten von Kategorien
+
