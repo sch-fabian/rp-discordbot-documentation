@@ -15,6 +15,15 @@ Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei dokume
 
 # Released
 
+## 2.0.3 [09.07.2020}
+
+### Added
+- Neue Einstellung für Questgeber Rang
+
+### Changed
+- Der `!stats` Befehl kann nun von Supportern ausgeführt werden
+- Der `!hausdesgeldes` Befehl kann nun von Questgebern mit einem Limit von 10000 Denare ausgeführt werden
+
 ## 2.0.2 [24.06.2020]
 
 ### Changed
