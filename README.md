@@ -68,4 +68,5 @@ Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei dokume
 
 - `!item` - Zum verwalten, anschauen und kaufen von Items
 - `!cat` - Zum verwalten von Kategorien
+- `!inv`- Zum veralten und anzeigen des Inventars
 
