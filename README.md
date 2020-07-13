@@ -11,6 +11,9 @@ Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei dokume
 - Funktion zum Prüfen der Aktivität
 - Funktion die User und Charaktere aus der Datenbank löscht wenn sie den Server verlassen
 
+### Changed
+- Der `!kill` Befehl kann nun von Moderatoren ausgeführt werden
+
 ## 2.0.3 [09.07.2020]
 
 ### Added
