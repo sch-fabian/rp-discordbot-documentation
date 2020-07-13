@@ -5,6 +5,12 @@ Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei dokume
 
 # Released
 
+## 2.0.4 [13.07.2020]
+
+### Added
+- Funktion zum Prüfen der Aktivität
+- Funktion die User und Charaktere aus der Datenbank löscht wenn sie den Server verlassen
+
 ## 2.0.3 [09.07.2020]
 
 ### Added
